@@ -1,0 +1,108 @@
+.first {
+    
+    width: 39%;
+    height: 592px;
+    margin-top: 20px;
+    margin-left: 400px;
+    border: solid rgb(175, 175, 175) 1px;
+}
+
+.first h1 {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 60px;
+    font-family: 'Gabarito', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Satisfy', cursive;
+}
+
+.first input {
+    height: 50px;
+    width: 380px;
+    display: flex;
+    margin-top: 70px;
+    margin-left: 60px;
+    border-radius: 5px;
+    border: 0;
+    border: solid rgb(175, 175, 175) 1px;
+    background-color: rgb(248, 248, 248);
+
+}
+
+input::placeholder {
+    padding: 10px;
+    color: #999;
+    font-style: italic;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#io {
+    margin-top: 8px;
+}
+
+.first button {
+    font-size: 20px;
+    color: white;
+    margin-top: 15px;
+    margin-left: 170px;
+    margin-left: 60px;
+    height: 50px;
+    width: 390px;
+    border: 0;
+    outline: 0;
+    border-radius: 10px;
+    background-color: rgb(47, 184, 238);
+}
+
+#hro {
+    width: 32%;
+    color: grey;
+    margin-left: 60px;
+    margin-top: 43px;
+}
+
+#hrt {
+    width: 32%;
+    color: grey;
+    margin-left: 290px;
+    margin-top: -31px;
+}
+
+h3 {
+    margin-left: 243px;
+    margin-top: -20px;
+}
+
+
+.smatter img {
+    width: 8%;
+    margin-top: 37px;
+    margin-left: 130px;
+}
+
+p {
+    margin-top: -34px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.smatter a-link {
+    text-align: center;
+}
+
+.second {
+    border: solid rgb(175, 175, 175) 1px;
+    width: 39%;
+    height: 80px;
+    margin-left: 400px;
+    margin-top: 15px;
+
+}
+
+.second p {
+    margin-top: 30px;
+}
+
